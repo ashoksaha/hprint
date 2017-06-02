@@ -1,0 +1,4 @@
+[02-May-2017 03:55:18 America/Chicago] PHP Fatal error:  Class 'Slim\Slim' not found in /home1/stellar/public_html/api.fundsplanner.com/onlineprint/application/controllers/Mobileno_Verify.php on line 34
+[02-May-2017 04:07:58 America/Chicago] PHP Fatal error:  Class 'Slim\Slim' not found in /home1/stellar/public_html/api.fundsplanner.com/onlineprint/application/controllers/Mobileno_Verify.php on line 34
+[02-May-2017 05:09:54 America/Chicago] PHP Fatal error:  Class 'Slim\Slim' not found in /home1/stellar/public_html/api.fundsplanner.com/onlineprint/application/controllers/Mobileno_Verify.php on line 34
+[04-May-2017 05:22:22 America/Chicago] PHP Fatal error:  Call to undefined method Register_User::payment_details_insert() in /home1/stellar/public_html/api.fundsplanner.com/onlineprint/application/controllers/Order_Payment.php on line 37
